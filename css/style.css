@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.containerAll{
+    width: 100%;
+    height: 100vh;
+    background-color: darkgrey;
+}
+    .clockArea{
+        background-color: blanchedalmond;
+        width: 700px;
+        height: 250px;
+    }
+        .clockArea p{
+            font-size: 140px;
+            font-family: monospace;
+        }
